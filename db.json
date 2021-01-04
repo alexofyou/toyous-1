@@ -1,0 +1,26 @@
+      "kruglosutochno":true
+   },
+   {
+      "image_url":"https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+      "name":"ХОУМ КРЕДИТ",
+      "rating":5,
+      "age":"18-65",
+      "percent":"10% годовых",
+      "sum_one":"до 700 000",
+      "sum_min":"до 1 000 руб",
+      "days_info":"от 2х до 36 месяцев",
+      "term_to":"160",
+      "url":"https://www.homecredit.ru",
+      "email":"info@web-zaim.ru",
+      "address":"630091, г.Новосибирск, ул. Державина, 28, офис 302",
+      "work_time":"Работает круглосуточно",
+      "license":"Свидетельство №2/11/08/27/000326",
+      "scorost":"несколько минут",
+      "dokuments":"Паспорт",
+      "sposob":"онлайн",
+      "nalichnie":true,
+      "nakartu":true,
+      "zafiveminut":true,
+      "kruglosutochno":true
+   }
+]
